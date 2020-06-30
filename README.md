@@ -15,3 +15,8 @@ Purposeful stuff in here
 This is a simple web project, can be deployed on any web server
 
 ## How to Contribute
+
+
+### copyright
+
+GPLv3
