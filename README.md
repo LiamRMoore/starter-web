@@ -16,6 +16,7 @@ This is a simple web project, can be deployed on any web server
 
 ## How to Contribute
 
+Please fork this repo and issue a pull request for review
 
 ### copyright
 
