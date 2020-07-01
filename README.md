@@ -1,6 +1,8 @@
 # Starter Web Project
 
-This is a simple website project for bl abl abla balabdqwolfkhwlfkj
+This is a simple website project for bl abl abla balabdqwolfkhwlfkj.
+
+Adding a line for rebasing example.
 
 ## Introduction
 
@@ -10,7 +12,7 @@ And more random shite.
 
 Purposeful stuff in here
 
-## Deployment
+## Deploymentforward
 
 This is a simple web project, can be deployed on any web server
 
