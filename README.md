@@ -2,7 +2,7 @@
 
 This is a simple website project for bl abl abla balabdqwolfkhwlfkj.
 
-Adding a line for rebasing example.
+Adding a line for rebasing example, more changes from myfeaturebranch
 
 ## Introduction
 
@@ -12,7 +12,7 @@ And more random shite.
 
 Purposeful stuff in here
 
-## Deploymentforward
+## Deployment
 
 This is a simple web project, can be deployed on any web server
 
