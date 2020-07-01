@@ -22,4 +22,4 @@ Please fork this repo and issue a pull request for review
 
 ### copyright
 
-GPLv3
+GPLv3 all rights for everyone
